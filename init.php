@@ -20,6 +20,5 @@ $config = array(
 	'fileName' 		=> 'data'
 );
 
-
 $qualt = new surveyResponseExports( $config );
 $qualt->init().'<br>';
